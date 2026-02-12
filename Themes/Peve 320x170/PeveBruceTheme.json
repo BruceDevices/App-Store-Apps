@@ -1,0 +1,21 @@
+{
+  "wifi": "01wifi-min.png",
+  "ble": "002ble-min.png",
+  "rf": "003rf-min.png",
+  "rfid": "04rfid-min.png",
+  "ir": "05ir-min.png",
+  "fm": "06fm-min.png",
+  "files": "07files-min.png",
+  "gps": "08gps-min.png",
+  "nrf": "09nrf-min.png",
+  "interpreter": "10JS-min.png",
+  "others": "11other-min.png",
+  "clock": "12clock-min.png",
+  "connect": "13connect-min.png",
+  "config": "14config-min.png",
+  "priColor": "05fa",
+  "secColor": "6d00",
+  "bgColor": "0000",
+  "border": 1,
+  "label": 0
+}
